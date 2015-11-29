@@ -1,0 +1,28 @@
+Current Date 11/24/2015 Current Time 0:49:39
+
+Billing Information: 
+Full Name: Dacuag, Marvin Lubongan
+Birthdate: 3/28/1998
+Gender: Male
+Complete Address: # 8F. Balagtas St., Sta Lucia, Novaliches, Quezon City, Ph 117
+Contact No: +639153720166
+Email: marvin.dacuag@benilde.edu.ph
+----------------------------------------------------------
+Foods Tray: 
+
+1 - Nachos [400.0]
+26 - Frozen Brazo [290.0]
+8 - beef Salpicao [520.0]
+
+TOTAL AMOUNT: PHP 5650.00
+----------------------------------------------------------
+Delivery Details: 
+Full Name: Dacuag, Marvin
+Gender: Male
+Contact No: +639153720166
+Complete Address: # 8F. Balagtas St., Sta Lucia, Novaliches, Quezon City, Ph 117
+LandMark: Sari Sari Store
+Delivery Date: Within 1 hour after order is placed.
+Remarks: Deliver it ON TIME!
+
+
